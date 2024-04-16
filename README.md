@@ -16,12 +16,12 @@ Detects allergies from menus and ingredient lists at the back of packaged produc
 ### App Evaluation
 
 [Evaluation of your app across the following attributes]
-- **Category:**: Health
-- **Mobile:**: 
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Health
+- **Mobile:** Back camera, location tracking, personalization
+- **Story:** Helps people feel safe eating out, decrease risk of medical emergencies, streamlines shopping and ordering process.
+- **Market:** 20 million people have food allergies in the U.S., allergies can cause tummy aches to death
+- **Habit:** Everytime someone goes to eat out or goes shopping (realistically a few times a week for the app to be used), Create allergy lists or warning lists
+- **Scope:** I think it is doable to aim for 100% completion, A stripped-down version with just the scanning and yes/no detection is still cool
 
 ## Product Spec
 
@@ -29,22 +29,33 @@ Detects allergies from menus and ingredient lists at the back of packaged produc
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can add allergies
+* User can scan ingredient lists at the back of packages
+* User can find out if that product has allergens
+* User can store what dishes at a specific restaurant has allergens
+* User can scan menus and find out what dishes has allergens
+* User can delete allergies
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can log in
+* User can log out
+* User can have a warning list of maybe allergies
+* User can share allergy list to someone else (for a child to a babysitter)
 
 ### 2. Screen Archetypes
 
-- [ ] [list first screen here]
+- [ ] Login Screen
 * [list associated required story here]
 * ...
-list second screen here]
+- [ ] Registration Screen
 * [list associated required story here]
 * ...
+- [ ] Camera Screen
+- [ ] Allergy List Screen
+- [ ] Map screen of restaurants with tracked dishes
+- [ ] d
+- [ ] d
 
 ### 3. Navigation
 
