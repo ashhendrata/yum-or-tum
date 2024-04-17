@@ -69,17 +69,16 @@ Detects allergies from menus and ingredient lists at the back of packaged produc
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Camera Screen to Allergy List Screen
+- [ ] Camera Screen (main screen) to Allergy List Screen
 * User can take a picture of an ingredient list and be directed to the list of allergies it may contain
-* 
-- [ ] [list second screen here]
-* [list screen navigation here]
-* ...
+- [ ] Cell view of all restuarants screen to individual restaurant screen
+* User can click on a restaurant and see which dishes are "allergy-safe" or "contain allergies"
+- [ ] My allergies screen
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![IMG_1752](https://github.com/ashhendrata/yum-or-tum/assets/134671782/6a8468e3-a45b-4586-b2b5-700214c13abe)
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
