@@ -56,23 +56,22 @@ Detects allergies from menus and ingredient lists at the back of packaged produc
 * User can scan a menu, highlight a menu item, and store it as being "allergy-safe" or "contains allergies"
 - [ ] Allergy List Screen
 * User can see a list of potential allergens that a given food item after a scan of an ingredient list
-- [ ] Map screen of restaurants with tracked dishes
+- [ ] Cell view of all restaurants Screen
 * User can see a list of restaurants and the associated foods that have been identified as "allergy-safe" or "contains allergies"
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* Camera Tab: If a photo is taken, it automatically gets sent to the Allergy List Screen
-* My Allergies Tab: Contains personal allergies
-* Restaurants Tab: Cell view of restaurants, and the associated foods that have been identified as "allergy-safe" or "contains allergies"
-* Map Tab: Shows all the restaurants you have details on (User can have a good list of restaurants esp if they have a lot of bad allergies)
+* Camera Tab to Camera Screen: If a photo is taken, it automatically gets sent to the Allergy List Screen
+* My Allergies Tab to My Allergies Screen: Contains personal allergies
+* Restaurants Tab to Restaurants screen: Cell view of restaurants, and the associated foods that have been identified as "allergy-safe" or "contains allergies"
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Camera Tab/Screen
-* User can take a picture of an ingredient list
-* ...
+- [ ] Camera Screen to Allergy List Screen
+* User can take a picture of an ingredient list and be directed to the list of allergies it may contain
+* 
 - [ ] [list second screen here]
 * [list screen navigation here]
 * ...
