@@ -46,29 +46,32 @@ Detects allergies from menus and ingredient lists at the back of packaged produc
 ### 2. Screen Archetypes
 
 - [ ] Login Screen
-* [list associated required story here]
-* ...
+* User can log into their account, which has personalized information
 - [ ] Registration Screen
-* [list associated required story here]
-* ...
+* User can state their name and choose their password
+- [ ] My Allergies Screen
+* User can create, read, update, delete allergies
 - [ ] Camera Screen
+* User can scan an ingredient list
+* User can scan a menu, highlight a menu item, and store it as being "allergy-safe" or "contains allergies"
 - [ ] Allergy List Screen
+* User can see a list of potential allergens that a given food item after a scan of an ingredient list
 - [ ] Map screen of restaurants with tracked dishes
-- [ ] d
-- [ ] d
+* User can see a list of restaurants and the associated foods that have been identified as "allergy-safe" or "contains allergies"
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Camera Tab: If a photo is taken, it automatically gets sent to the Allergy List Screen
+* My Allergies Tab: Contains personal allergies
+* Restaurants Tab: Cell view of restaurants, and the associated foods that have been identified as "allergy-safe" or "contains allergies"
+* Map Tab: Shows all the restaurants you have details on (User can have a good list of restaurants esp if they have a lot of bad allergies)
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [list first screen here]
-* [list screen navigation here]
+- [ ] Camera Tab/Screen
+* User can take a picture of an ingredient list
 * ...
 - [ ] [list second screen here]
 * [list screen navigation here]
