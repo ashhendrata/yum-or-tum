@@ -30,6 +30,7 @@ Detects allergies from menus and ingredient lists at the back of packaged produc
 **Required Must-have Stories**
 
 * User can add allergies
+* [DONE] User can use the back camera to scan the product
 * User can scan ingredient lists at the back of packages
 * User can find out if that product has allergens
 * User can store what dishes at a specific restaurant has allergens
