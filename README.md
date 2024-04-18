@@ -51,7 +51,7 @@ Detects allergies from menus and ingredient lists at the back of packaged produc
 * User can state their name and choose their password
 - [ ] My Allergies Screen
 * User can create, read, update, delete allergies
-- [ ] Camera Screen
+- [x] Camera Screen
 * User can scan an ingredient list
 * User can scan a menu, highlight a menu item, and store it as being "allergy-safe" or "contains allergies"
 - [ ] Allergy List Screen
@@ -78,6 +78,17 @@ Detects allergies from menus and ingredient lists at the back of packaged produc
 ## Wireframes
 
 ![IMG_1752](https://github.com/ashhendrata/yum-or-tum/assets/134671782/6a8468e3-a45b-4586-b2b5-700214c13abe)
+
+## Update: April 17
+
+
+Phone is laggy so please be patient!
+https://github.com/ashhendrata/yum-or-tum/assets/134671782/ed99e2cc-e2bc-4094-8618-965903cb50b7
+
+Challenges faced: starting was the hardest! And learning how to use the back camera was a journey
+
+What's next: Detecting text in the photos taken
+
 
 
 ### [BONUS] Digital Wireframes & Mockups
