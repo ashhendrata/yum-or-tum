@@ -83,7 +83,11 @@ Detects allergies from menus and ingredient lists at the back of packaged produc
 
 
 Phone is laggy so please be patient!
-https://github.com/ashhendrata/yum-or-tum/assets/134671782/ed99e2cc-e2bc-4094-8618-965903cb50b7
+
+
+https://github.com/ashhendrata/yum-or-tum/assets/134671782/985c4a98-b065-40a7-b9be-5e879adac818
+
+
 
 Challenges faced: starting was the hardest! And learning how to use the back camera was a journey
 
