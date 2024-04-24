@@ -29,7 +29,7 @@ Detects allergies from menus and ingredient lists at the back of packaged produc
 
 **Required Must-have Stories**
 
-* User can add allergies
+* [DONE] User can add allergies
 * [DONE] User can use the back camera to scan the product
 * User can scan ingredient lists at the back of packages
 * User can find out if that product has allergens
@@ -50,7 +50,7 @@ Detects allergies from menus and ingredient lists at the back of packaged produc
 * User can log into their account, which has personalized information
 - [ ] Registration Screen
 * User can state their name and choose their password
-- [ ] My Allergies Screen
+- [x] My Allergies Screen
 * User can create, read, update, delete allergies
 - [x] Camera Screen
 * User can scan an ingredient list
@@ -87,6 +87,12 @@ Phone is laggy so please be patient!
 
 
 https://github.com/ashhendrata/yum-or-tum/assets/134671782/985c4a98-b065-40a7-b9be-5e879adac818
+
+Update:
+
+
+https://github.com/ashhendrata/yum-or-tum/assets/134671782/c77bad05-8436-46c5-8c3d-61262eb07af5
+
 
 
 
